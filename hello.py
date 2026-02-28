@@ -32,7 +32,7 @@ write("Boop", align="center", font=("Comic Sans", 9, "italic"))
 
 goto(123,123)
 color("dodgerblue")
-write("Angus Wong", align='center', font=("Comic Sans MS", 14))
+write("Corey McCormick", align='center', font=("Comic Sans MS", 14))
 
 goto(200, 45)
 shape("turtle")
